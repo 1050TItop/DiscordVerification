@@ -1,0 +1,9 @@
+name: DiscordVerification
+version: '1.1'
+main: ru.matveylegenda.discordverification.DiscordVerification
+api-version: 1.16
+authors: [ 1050TI_top ]
+commands:
+  discordverification:
+    permission: discordverification.admin
+    permission-message: "§cНет прав!"
